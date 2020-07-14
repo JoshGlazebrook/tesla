@@ -1,0 +1,25 @@
+{
+  "name": "tesla",
+  "version": "1.0.0",
+  "description": "A modern tesla api client for the tesla api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tesla",
+    "tesla-api",
+    "teslajs",
+    "tesla api",
+    "api",
+    "solar",
+    "model 3",
+    "model y",
+    "model x",
+    "model s",
+    "cybertruck"
+  ],
+  "author": "Josh Glazebrook",
+  "readme": "",
+  "license": "MIT"
+}
